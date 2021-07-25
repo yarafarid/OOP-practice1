@@ -44,6 +44,7 @@ void setName(string name) {Name = name ;}
 */
 int main()
 {
+    cout << "Welcome " << endl;
  char choice ;
  cout << "if you want to sign in as a customer please press C else press A" << endl;
  cin >> choice ;
